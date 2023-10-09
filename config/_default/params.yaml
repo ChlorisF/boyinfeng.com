@@ -8,8 +8,8 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
-  font_size: L
+  font: classic
+  font_size: M
 
 # Contact (edit or remove options as required)
 
@@ -18,10 +18,6 @@ address:
   city: Beijing
   postcode: '100089'
   country: China
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    link: 'https://twitter.com/SkyAoXiaojian'
     
 # Site header
 

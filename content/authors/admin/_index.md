@@ -6,10 +6,6 @@ title: Boyin Feng 冯伯寅
 first_name: Boyin
 last_name: Feng
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -39,7 +35,7 @@ education:
     - course: MSc in Social Cognition
       institution: University College London
       year: 2022 (with distinction)
-    - course: BA in French and BSc in International Relations
+    - course: BA in French and LLB in International Relations
       institution: Beijing Foreign Studies University
       year: 2020
 
@@ -76,8 +72,15 @@ email: 'boyin.feng.21@ucl.ac.uk'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Boyin Feng is a Master's student of Social Cognition and International Relations. Her research interests span intergroup relations, cultural psychology, political psychology, and affective science.
 
-Boyin Feng is a Master's student of Social Cognition and International Relations. Her research interests include intergroup relations, cultural psychology, political psychology, and affective science. 
+She is especially interested in exploring questions at the nexus of identity, ideology, emotion, and culture. Some of her current research inquiries include:
 
-Some of the research questions she is currently concerned about include: 1) how affective polarisation and ideological polarisation interact; 2) whether and how group identity implicates in intergroup emotion recognition and regulation; 3) how cultural values and political ideologies shape social identities and breed polarization, intergroup conflict, and discrimination.
+- Understanding the complex interplay between affective polarization and ideological polarization<br>
+- Investigating how group identities may shape intergroup emotion recognition and regulation<br>
+- Examining how cultural values and political ideologies influence social identities and intergroup dynamics like polarization, conflict, and discrimination<br>
+- Analyzing how emotions are mobilized and play out in contexts of political rhetoric and decision-making<br>
+- Comparing cultural differences in the experience, expression, and uses of emotion in the political sphere<be>
+
+Boyin aims to conduct research that advances psychological theory while also informing solutions to pressing issues of intergroup conflict and global cooperation. She is passionate about pursuing culturally-engaged scholarship that bridges disciplines and borders.
 {style="text-align: justify;"}

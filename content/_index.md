@@ -63,7 +63,10 @@ sections:
       columns: '2'
       view: citation
   - block: contact
-      # Contact (add or remove contact options as necessary)
+    id: contact
+    content:
+      title: Contact
+        # Contact (add or remove contact options as necessary)
       email: boyin.feng.21@ucl.ac.uk
       phone: +86 15101531511
       address:

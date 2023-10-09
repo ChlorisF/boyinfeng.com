@@ -16,8 +16,8 @@ publishDate: "2023-10-09T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: ''
+publication_short: ''
 
 abstract:The UK faces tumultuous political environments domestically and internationally. This study grounded in social identity theory adopts a quantitative approach to examine the relationship between British participants' (*N* = 189) political ideology and facial emotion recognition ability. It includes two emotion recognition tasks using East Asian and Western faces and measures subjective and objective political ideology by self-report and issue-based scores.<br>
 <br>

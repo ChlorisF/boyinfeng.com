@@ -1,4 +1,3 @@
-![image](https://github.com/ChlorisF/hugo-website/assets/103331766/54ef07fe-9797-4722-93ec-a1582ee4d6a8)---
 # Display name
 title: Boyin Feng 冯伯寅
 

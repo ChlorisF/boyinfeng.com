@@ -78,5 +78,6 @@ highlight_name: true
 ---
 
 Boyin Feng is a Master's student of Social Cognition and International Relations. Her research interests include intergroup relations, cultural psychology, political psychology, and affective science. 
+
 Some of the research questions she is currently concerned about include: 1) how affective polarisation and ideological polarisation interact; 2) whether and how group identity implicates in intergroup emotion recognition and regulation; 3) how cultural values and political ideologies shape social identities and breed polarization, intergroup conflict, and discrimination.
 {style="text-align: justify;"}

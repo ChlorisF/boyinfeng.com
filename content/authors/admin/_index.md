@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Boyin Feng 冯伯寅
+title: Boyin Feng
 
 # Full name (for SEO)
 first_name: Boyin

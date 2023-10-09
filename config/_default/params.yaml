@@ -36,8 +36,8 @@ address:
 header:
   navbar:
     enable: true
-    align: l
-    show_logo: true
+    align: center
+    show_logo: false
     show_language: false
     show_day_night: false
     show_search: true

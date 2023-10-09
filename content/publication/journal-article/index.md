@@ -1,16 +1,18 @@
 ---
-title: "An example journal article"
+title: "Standard cognitive and mental health measures may not generalise across cultures"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- Boyin Feng
+- Rosanna Sheehan
+- Yixuan Wang
+- Jiamin Bao
+- Oliver J. Robinson
+- Yinyin Zang
+- Christina Carlisi
+date: "2023-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-10-09T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +20,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Under review"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Individuals worldwide share basic affective and cognitive abilities, and receive mental health diagnoses using similar scales, yet surprisingly little research has examined the validity of these measures across cultures. Here, we performed direct comparison between British participants (N = 187; 51.3% female, 48.7% male; age 19-73 years) and Chinese participants (N = 194; 66.5% female, 33.5% male; age 19-60 years) in mid-2022 on behavioural tasks of facial emotion recognition (with and without contextual faces) and sustained attention, as well as mental health measures of anxiety, depression, obsessive-compulsive disorder, and impulsivity. We found that British participants were better at recognising emotions, especially negative emotions; while Chinese participants showed higher obsessive-compulsive symptoms, driven primarily by one specific scale item. In contrast, the cultural groups exhibited negligible differences in sustained attention task and other mental health measures. This study provides novel evidence that culture has a greater influence on facial emotion recognition compared to other cognitive and clinical measures, and also raises concerns about potential cultural biases in established mental health scales.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We directly compared British and Chinese participants on standard cognitive and clinical assessments of emotion recognition with and without context, sustained attention, anxiety, depression, obsessive-compulsive traits, and impulsivity. 
 
 tags:
 - Source Themes
@@ -33,8 +35,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 

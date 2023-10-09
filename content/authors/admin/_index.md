@@ -72,15 +72,14 @@ email: 'boyin.feng.21@ucl.ac.uk'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Boyin Feng is a Master's student of Social Cognition and International Relations. Her research interests span intergroup relations, cultural psychology, political psychology, and affective science.
+Boyin Feng is a Master's student of Social Cognition and International Relations. Her interdisciplinary research interests span intergroup relations, cultural psychology, political psychology, and affective science.
 
 She is especially interested in exploring questions at the nexus of identity, ideology, emotion, and culture. Some of her current research inquiries include:
 
-- Understanding the complex interplay between affective polarization and ideological polarization<br>
-- Investigating how group identities may shape intergroup emotion recognition and regulation<br>
-- Examining how cultural values and political ideologies influence social identities and intergroup dynamics like polarization, conflict, and discrimination<br>
-- Analyzing how emotions are mobilized and play out in contexts of political rhetoric and decision-making<br>
-- Comparing cultural differences in the experience, expression, and uses of emotion in the political sphere<be>
+- How do affective polarization and ideological polarization connect and interact?<br>
+- How do group identities and cultural differences shape the experience, expression, and regulation of emotion?<br>
+- In what ways are emotions mobilized and how do they play out in contexts of political rhetoric and decision-making?<br>
+- How do cultural values and political ideologies influence social identities and intergroup dynamics like polarization, conflict, and discrimination?<be>
 
 Boyin aims to conduct research that advances psychological theory while also informing solutions to pressing issues of intergroup conflict and global cooperation. She is passionate about pursuing culturally-engaged scholarship that bridges disciplines and borders.
 {style="text-align: justify;"}

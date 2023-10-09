@@ -11,6 +11,18 @@ appearance:
   font: classic
   font_size: M
 
+
+# SEO
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''  
+  verification:
+    google: ''
+    baidu: ''
+
+
 # Contact (edit or remove options as required)
 
 email: boyin.feng.21@ucl.ac.uk
@@ -27,7 +39,7 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: true
 

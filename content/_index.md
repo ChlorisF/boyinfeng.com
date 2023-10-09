@@ -38,23 +38,19 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
-    id: featured
+    title: Research
     content:
-      title: Featured Research
+      title: Past Research
       filters:
         folders:
-          - publication
+          - research
         featured_only: true
     design:
       columns: '2'
       view: card
   - block: collection
     content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: Publications
       filters:
         folders:
           - publication

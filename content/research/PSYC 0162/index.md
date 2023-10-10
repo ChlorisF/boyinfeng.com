@@ -1,4 +1,4 @@
-![image](https://github.com/ChlorisF/hugo-website/assets/103331766/2a7ed604-81ba-49e9-9ec0-26f2970b9c11)---
+---
 title: "How do affective and motivational states influence the stability of political ideology?"
 authors:
 - Boyin Feng

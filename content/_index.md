@@ -48,7 +48,6 @@ sections:
       title: Contact
       # Contact (add or remove contact options as necessary)
       email: boyin.feng.21@ucl.ac.uk
-      phone: +86 15101531511
       address:
         street: 2 Xisanhuan North Avenue
         city: Beijing

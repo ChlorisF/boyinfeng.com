@@ -44,10 +44,9 @@ sections:
       columns: '2'
       view: citation
   - block: contact
-    id: contact
     content:
       title: Contact
-        # Contact (add or remove contact options as necessary)
+      # Contact (add or remove contact options as necessary)
       email: boyin.feng.21@ucl.ac.uk
       phone: +86 15101531511
       address:
@@ -58,7 +57,6 @@ sections:
         country_code: CN
       # Automatically link email and phone or display as text?
       autolink: true
-     
     design:
       columns: '2'
 ---

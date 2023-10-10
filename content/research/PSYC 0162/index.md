@@ -16,7 +16,6 @@ publication_types: ["article-journal"]
 # Publication name and optional abbreviated publication name.
 publication: 'PSYC0162 Social Cognition, Affect and Motivation'
 publication_short: ''
-
 abstract: The paper looks at whether and how political ideology could be influenced by two closely-related stimuli-sensitive states: *affect* and *motivation*.
 
 # Summary. An optional shortened abstract.

@@ -16,7 +16,7 @@ links:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-url_slides: https://www.dropbox.com/scl/fi/29ayqf9yiyxsx5evyaprz/neuromatch2023.pdf?rlkey=kxmnh90m0g2neyejbrhk93ecu&dl=0
+url_slides: https://www.dropbox.com/scl/fi/6uvoyblt6ugw8c64i9e2w/fMRI-Group-E_1010.pdf?rlkey=kexp6nhrj4mo0wbf6pvu7j48y&dl=0
 
 ---
 In general, the activations observed in the current study are consistent with previous findings, especially in semantic processing. 

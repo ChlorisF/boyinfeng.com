@@ -8,8 +8,16 @@ doi: ""
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-10-09T00:00:00Z"
 
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
 
-abstract: The paper looks at whether and how political ideology could be influenced by two closely-related stimuli-sensitive states: *affect* and *motivation*.
+# Publication name and optional abbreviated publication name.
+publication: "PSYC0162 Social Cognition, Affect and Motivation"
+publication_short: ""
+
+abstract: The paper looks at whether and how political ideology could be influenced by two closely-related stimuli-sensitive states: affect and motivation.
 
 # Summary. An optional shortened abstract.
 summary: 3000-word essay (76/100, distinction achieved) for UCL PSYC0162 Social Cognition, Affect and Motivation directed by Prof [Ana Guinote

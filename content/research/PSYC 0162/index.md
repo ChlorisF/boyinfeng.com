@@ -20,8 +20,7 @@ publication_short: ''
 abstract: The paper looks at whether and how political ideology could be influenced by two closely-related stimuli-sensitive states: *affect* and *motivation*.
 
 # Summary. An optional shortened abstract.
-summary: 3000-word essay (76/100, distinction achieved) for UCL PSYC0162 Social Cognition, Affect and Motivation directed by Prof [Ana Guinote
-](https://www.ucl.ac.uk/pals/people/ana-guinote) 
+summary: 3000-word essay (76/100, distinction achieved) for UCL PSYC0162 Social Cognition, Affect and Motivation directed by Prof [Ana Guinote](https://www.ucl.ac.uk/pals/people/ana-guinote) 
 
 tags:
 - Source Themes

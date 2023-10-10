@@ -24,6 +24,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: true
   - block: collection
+    id: featured
     content:
       title: Research Papers
       filters:

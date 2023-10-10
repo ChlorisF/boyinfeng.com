@@ -17,7 +17,7 @@ publication_types: ["article"]
 publication: 'Coursework'
 publication_short: ''
 
-abstract: The paper looks at whether and how political ideology could be influenced by two closely-related stimuli-sensitive states: *affect* and *motivation*.
+abstract: The paper looks at whether and how political ideology could be influenced by two closely-related stimuli-sensitive states: affect and motivation.
 
 # Summary. An optional shortened abstract.
 summary: The study investigates the relationship between British participants' political ideology and facial emotion recognition ability.

@@ -48,5 +48,5 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+url_slides: https://www.dropbox.com/scl/fi/0b65lmy0pv488hcagq3hy/polipsych_slides_En.pdf?rlkey=fy1thqvu6hots2ubywmbprlh0&dl=0
 ---

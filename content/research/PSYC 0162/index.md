@@ -1,4 +1,4 @@
----
+![image](https://github.com/ChlorisF/hugo-website/assets/103331766/2a7ed604-81ba-49e9-9ec0-26f2970b9c11)---
 title: "How do affective and motivational states influence the stability of political ideology?"
 authors:
 - Boyin Feng
@@ -14,10 +14,10 @@ publishDate: "2022-10-09T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: 'In revision'
+publication: 'Coursework'
 publication_short: ''
 
-abstract: The UK faces tumultuous political environments domestically and internationally. This study grounded in social identity theory adopts a quantitative approach to examine the relationship between British participants' (*N* = 189) political ideology and facial emotion recognition ability. It includes two emotion recognition tasks using East Asian and Western faces and measures subjective and objective political ideology by self-report and issue-based scores. The study finds political ideology negatively correlates with recognizing negative emotions, with stronger effects for British ingroup faces and subjective measures of ideology. Results demonstrate political ideology systematically influences social cognition, inducing selective attention and ingroup preference, leading to intergroup discrepancies. This verifies political ideology theories, provides new perspectives on attitude measurement, and offers insights into social tensions and cross-cultural communication. Future research should expand sample sizes and establish causality.
+abstract: The paper looks at whether and how political ideology could be influenced by two closely-related stimuli-sensitive states: *affect* and *motivation*.
 
 # Summary. An optional shortened abstract.
 summary: The study investigates the relationship between British participants' political ideology and facial emotion recognition ability.

@@ -3,6 +3,7 @@ title: "How do affective and motivational states influence the stability of poli
 authors:
 - Boyin Feng
 date: "2021-12-27T00:00:00Z"
+summary: The research looks at whether and how political ideology could be influenced by two closely-related stimuli-sensitive states - *affect* and *motivation*. It is the 3000-word essay (76/100, distinction achieved) for UCL PSYC0162 Social Cognition, Affect and Motivation directed by Prof [Ana Guinote](https://www.ucl.ac.uk/pals/people/ana-guinote) 
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

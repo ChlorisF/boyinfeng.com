@@ -1,6 +1,6 @@
 ---
-title: Neural correlates of visual emotional word processing: An fMRI study
-summary: The study aimed to investigate the neural correlates of emotion-eliciting word processing in a visual lexical decision task (LDT). By examining processing patterns between real words and pseudowords, and between emotional and neutral words, we expected to at least partially dissociate semantic and affective components in emotional word processing.
+title: Neural correlates of visual emotional word processing - An fMRI study
+summary: The study aimed to investigate the neural correlates of emotion-eliciting word processing in a visual lexical decision task (LDT). By examining processing patterns between real words and pseudowords, and between emotional and neutral words, we expected to partially dissociate semantic and affective components in emotional word processing.
 date: '2022-05-06T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

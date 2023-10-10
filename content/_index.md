@@ -44,6 +44,7 @@ sections:
       columns: '2'
       view: citation
   - block: contact
+    id: contact
     content:
       title: Contact
       # Contact (add or remove contact options as necessary)

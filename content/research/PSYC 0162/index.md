@@ -17,10 +17,10 @@ publication_types: ["article"]
 publication: 'In revision'
 publication_short: ''
 
-abstract: The paper looks at whether and how political ideology could be influenced by two closely-related stimuli-sensitive states: *affect* and *motivation*.
+abstract: The UK faces tumultuous political environments domestically and internationally. This study grounded in social identity theory adopts a quantitative approach to examine the relationship between British participants' (*N* = 189) political ideology and facial emotion recognition ability. It includes two emotion recognition tasks using East Asian and Western faces and measures subjective and objective political ideology by self-report and issue-based scores. The study finds political ideology negatively correlates with recognizing negative emotions, with stronger effects for British ingroup faces and subjective measures of ideology. Results demonstrate political ideology systematically influences social cognition, inducing selective attention and ingroup preference, leading to intergroup discrepancies. This verifies political ideology theories, provides new perspectives on attitude measurement, and offers insights into social tensions and cross-cultural communication. Future research should expand sample sizes and establish causality.
 
 # Summary. An optional shortened abstract.
-summary: 3000-word essay (76/100, distinction achieved) for UCL PSYC0162 Social Cognition, Affect and Motivation directed by Prof [Ana Guinote](https://www.ucl.ac.uk/pals/people/ana-guinote) 
+summary: The study investigates the relationship between British participants' political ideology and facial emotion recognition ability.
 
 tags:
 - Source Themes

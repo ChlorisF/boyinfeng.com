@@ -32,6 +32,12 @@ tags:
 - Source Themes
 featured: false
 
+# links:
+# - name: ""
+#   url: ""
+url_pdf: ''
+url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:

@@ -1,5 +1,5 @@
 ---
-title: What can developmental research tell us about the origins of varying face and emotion recognition abilities? 
+title: How do individual differences in face and emotion recognition abilities emerge during development?
 authors:
 - Boyin Feng
 summary: This paper discusses the interplay of nature and nurture in face and emotion recognition abilities based on developmental research. 

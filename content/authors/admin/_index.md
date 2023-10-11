@@ -78,4 +78,4 @@ She is especially interested in exploring questions at the nexus of identity, id
 - How do cultural values and political ideologies influence social identities and intergroup dynamics like polarization, conflict, and discrimination?<be>
 
 Boyin aims to conduct research that advances psychological theory while also informing solutions to pressing issues of intergroup conflict and global cooperation. She is passionate about pursuing culturally-engaged scholarship that bridges disciplines and borders.
-{style="text-align: justify;"}
+{style="text-align: justify-all;"}

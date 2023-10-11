@@ -18,7 +18,7 @@ organizations:
     url: http://en.bfsu.edu.cn/overview.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include cultural psychology, political psychology, and intergroup relations.
+bio: My research interests include affective science, cultural & political psychology, and intergroup relations.
 
 # Interests to show in About widget
 interests:
@@ -31,13 +31,13 @@ education:
   courses:
     - course: LLM in International Politics
       institution: Beijing Foreign Studies University
-      year: 2023 (expected)
+      year: 2020-2023 (expected)
     - course: MSc in Social Cognition
       institution: University College London
-      year: 2022 (with distinction)
+      year: 2021-2022 (with distinction)
     - course: BA in French and LLB in International Relations
       institution: Beijing Foreign Studies University
-      year: 2020
+      year: 2016-2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,14 +45,8 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/Chloris62167493
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: '/#contact'
   - icon: github
     icon_pack: fab
     link: https://github.com/ChlorisF
@@ -65,14 +59,16 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-
+    display:
+      header: true
+    
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'boyin.feng.21@ucl.ac.uk'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Boyin Feng is a Master's student of Social Cognition and International Relations. Her interdisciplinary research interests span intergroup relations, cultural psychology, political psychology, and affective science.
+Boyin Feng is a final-year Master's student in International Relations. She obtained her MSc in Social Cognition degree in 2022. Her interdisciplinary research interests span intergroup relations, cultural psychology, political psychology, and affective science.
 
 She is especially interested in exploring questions at the nexus of identity, ideology, emotion, and culture. Some of her current research inquiries include:
 

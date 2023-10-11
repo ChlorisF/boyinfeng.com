@@ -36,7 +36,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_code: 'https://github.com/ChlorisF/cultural-generalisability-psych-measures-2023'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -18,13 +18,6 @@ sections:
         folders:
           - research
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
-      #  exclude_featured: true
-    design:
       columns: '2'
       view: citation
     - block: portfolio

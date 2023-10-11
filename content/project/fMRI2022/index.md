@@ -19,6 +19,9 @@ links:
 url_slides: https://www.dropbox.com/scl/fi/6uvoyblt6ugw8c64i9e2w/fMRI-Group-E_1010.pdf?rlkey=kexp6nhrj4mo0wbf6pvu7j48y&dl=0
 
 ---
+This was the course project for PSYC 0073 - Designing and Analysing fMRI experiments, supervised by [Prof Joseph Devlin](https://scholar.google.com/citations?user=kCgH6AgAAAAJ). 
+78/100 Distinction achieved.
+
 In general, the activations observed in the current study are consistent with previous findings, especially in semantic processing. 
 
 Across three contrasts, OFC activation was identified, suggesting that this area was commonly involved in the current lexical task, and its degree of activation depended on the types of stimuli. Left inferior and middle gyrus, bilateral temporal and parietal lobes showed greater activity in response to real words than to pseudowords. 

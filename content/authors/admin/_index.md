@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fa
-    link: "boyin.feng.21@ucl.ac.uk"
+    link: "mailto:boyin.feng.21@ucl.ac.uk"
   - icon: github
     icon_pack: fab
     link: https://github.com/ChlorisF

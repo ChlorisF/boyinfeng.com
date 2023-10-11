@@ -45,10 +45,10 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
-    icon_pack: fab
+    icon_pack: fa
     link: '/#contact'
   - icon: github
-    icon_pack: fab
+    icon_pack: fa
     link: https://github.com/ChlorisF
   - icon: linkedin
     icon_pack: fab

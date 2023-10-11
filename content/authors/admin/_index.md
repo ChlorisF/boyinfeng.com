@@ -48,7 +48,7 @@ social:
     icon_pack: fa
     link: '/#contact'
   - icon: github
-    icon_pack: fa
+    icon_pack: fab
     link: https://github.com/ChlorisF
   - icon: linkedin
     icon_pack: fab

@@ -1,5 +1,5 @@
 ---
-title: What can studies of typical and atypical development tell us about the origins of varying face and emotion recognition abilities? 
+title: What can developmental research tell us about the origins of varying face and emotion recognition abilities? 
 authors:
 - Boyin Feng
 summary: This paper discusses the interplay of nature and nurture in face and emotion recognition abilities based on developmental research. 

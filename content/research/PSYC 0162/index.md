@@ -7,7 +7,7 @@ date: '2021-12-27T00:00:00Z'
 external_link: ''
 
 image: 
-  caption: Areas activated for the emotional > neutral contrast
+  caption: ''
   focal_point: Smart
 
 links:
@@ -16,7 +16,7 @@ links:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-url_slides: https://www.dropbox.com/scl/fi/6uvoyblt6ugw8c64i9e2w/fMRI-Group-E_1010.pdf?rlkey=kexp6nhrj4mo0wbf6pvu7j48y&dl=0
+url_slides: ""
 
 ---
 *This was the 3000-word essay for UCL course PSYC0162 Social Cognition, Affect and Motivation directed by [Prof Ana Guinote](https://scholar.google.com/citations?user=tbk3KoIAAAAJ&hl=en&oi=ao) in 2021. 76/100 Distinction achieved.*

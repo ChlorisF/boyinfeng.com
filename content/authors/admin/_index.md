@@ -68,7 +68,7 @@ email: 'boyin.feng.21@ucl.ac.uk'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Boyin Feng is a final-year Master's student in International Relations. She obtained her MSc in Social Cognition degree in 2022. Her interdisciplinary research interests span intergroup relations, cultural psychology, political psychology, and affective science.
+Boyin Feng is a Master's student of Social Cognition and International Relations. Her interdisciplinary research interests span intergroup relations, cultural psychology, political psychology, and affective science.
 
 She is especially interested in exploring questions at the nexus of identity, ideology, emotion, and culture. Some of her current research inquiries include:
 

@@ -21,7 +21,7 @@ links:
 url_slides: ""
 
 ---
-*This was the 3000-word essay for UCL course PSYC0162 Social Cognition, Affect and Motivation directed by [Prof Ana Guinote](https://scholar.google.com/citations?user=tbk3KoIAAAAJ&hl=en&oi=ao) in 2021. 76/100 Distinction achieved.*
+*This was the 3000-word essay for UCL course PSYC0162 Social Cognition, Affect and Motivation directed by [Prof Ana Guinote](https://scholar.google.com/citations?user=tbk3KoIAAAAJ&hl=en&oi=ao) in 2021. Distinction achieved (76/100).*
 
 Over the past few decades, research on political ideology has focused heavily on personality traits and genetics. However, this risks portraying ideology as predetermined and stable throughout life. As polarization worldwide continues to increase domestic conflicts and global insecurity, the alterable aspects of ideological formation warrant more attention.
 

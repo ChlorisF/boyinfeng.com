@@ -1,5 +1,6 @@
 ---
 title: How do affective and motivational states influence the stability of political ideology?
+author: Boyin Feng
 summary: The research looks at whether and how political ideology could be influenced by two closely-related stimuli-sensitive states - *affect* and *motivation*. 
 date: '2021-12-27T00:00:00Z'
 

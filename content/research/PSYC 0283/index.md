@@ -21,7 +21,7 @@ links:
 url_slides: ""
 
 ---
-*This was the essay for UCL course PSYC0283 Moral Cognition directed by [Dr Dorottya Lantos](https://scholar.google.com/citations?user=cdPofb0AAAAJ&hl=en&oi=ao) and [Dr Jess Rea](https://scholar.google.com/citations?user=lcVeH58AAAAJ&hl=en&oi=ao) in 2022. It comprises a 500-word blog post for the lay audience, and a 1500-word academic essay which both address the same question. Distinction achieved (80/100).*
+*This was the essay for UCL course **PSYC0283 Moral Cognition** directed by [Dr Dorottya Lantos](https://scholar.google.com/citations?user=cdPofb0AAAAJ&hl=en&oi=ao) and [Dr Jess Rea](https://scholar.google.com/citations?user=lcVeH58AAAAJ&hl=en&oi=ao) in 2022. It comprises a 500-word blog post for the lay audience, and a 1500-word academic essay which both address the same question. Distinction achieved (80/100).*
 
 Moral principles guide human behaviours by determining right from wrong. Two major moral principles exist - deontology, which focuses on the consistency of actions with social norms, and utilitarianism, which focuses on the overall consequences of actions. These principles reflect how individuals approach moral dilemmas.
 

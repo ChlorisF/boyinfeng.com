@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Boyin Feng
+title: 
 date: 2022-10-24
 type: landing
 
@@ -49,8 +49,8 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
-      view: citation
+      columns: '1'
+      view: compact
   - block: contact
     id: contact
     content:

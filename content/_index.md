@@ -10,7 +10,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-    - block: portfolio
+  - block: portfolio
     id: featured
     content:
       title: Research Papers
@@ -20,7 +20,7 @@ sections:
     design:
       columns: '2'
       view: citation
-    - block: portfolio
+  - block: portfolio
     id: projects
     content:
       title: Projects

@@ -3,7 +3,6 @@ title: Where do moral inclinations come from?
 authors:
 - Boyin Feng
 summary: This paper discusses the relationship and interaction between moral intuitions and moral reasoning.
-. 
 date: '2022-05-04T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

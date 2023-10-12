@@ -16,7 +16,7 @@ links:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: neuromatch2023
+url_slides: https://www.dropbox.com/scl/fi/29ayqf9yiyxsx5evyaprz/neuromatch2023.pdf?rlkey=kxmnh90m0g2neyejbrhk93ecu&dl=0
 ---
 Decoding models may use human fMRI responses to an image for reconstructing the original image. That is - "we see what we think". For the project at Neuromatch Academy 2022, we are interested in whether human judgment or metrics for quantifying model performance on image reconstruction reflect more preciseness.
 

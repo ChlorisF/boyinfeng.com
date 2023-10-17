@@ -77,5 +77,5 @@ She is especially interested in exploring questions at the nexus of identity, id
 - In what ways are emotions mobilized and how do they play out in contexts of political rhetoric and decision-making?<br>
 - How do cultural values and political ideologies influence social identities and intergroup dynamics like polarization, conflict, and discrimination?<be>
 
-Boyin aims to conduct research that advances psychological theory while also informing solutions to pressing issues of intergroup conflict and global cooperation. She is passionate about pursuing culturally-engaged scholarship that bridges disciplines and borders.
+Boyin aims to conduct research that advances psychological theory while also informing solutions to pressing issues of intergroup conflict and global cooperation. She is passionate about pursuing culturally-engaged scholarship that bridges disciplines and borders. Outside of research, she enjoys cooking, swimming, playing the piano, and watching dog videos (especially Golden Retrievers and Samoyeds).
 {style="text-align: justify-all;"}

@@ -68,13 +68,12 @@ email: 'boyin.feng.21@ucl.ac.uk'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Boyin Feng is a Master's student of Social Cognition and International Relations. Her interdisciplinary research interests span intergroup relations, cultural psychology, political psychology, and affective science.
+Boyin Feng is a Master's student of social psychology and political science. Her interdisciplinary research interests span intergroup relations, cultural/political psychology, political neuroscience, and affective science. She speaks Mandarin Chinese, English, and French fluently, as well as Latin and ancient Greek (sed non bene!).
 
 She is especially interested in exploring questions at the nexus of identity, ideology, emotion, and culture. Some of her current research inquiries include:
 
 - How do affective polarization and ideological polarization connect and interact?<br>
-- How do group identities and cultural differences shape the experience, expression, and regulation of emotion?<br>
-- In what ways are emotions mobilized and how do they play out in contexts of political rhetoric and decision-making?<br>
+- How do group identities and cultural differences shape the experience, expression, and regulation of emotions?<br>
 - How do cultural values and political ideologies influence social identities and intergroup dynamics like polarization, conflict, and discrimination?<be>
 
 Boyin aims to conduct research that advances psychological theory while also informing solutions to pressing issues of intergroup conflict and global cooperation. She is passionate about pursuing culturally-engaged scholarship that bridges disciplines and borders. Outside of research, she enjoys cooking, swimming, playing the piano, and watching dog videos (especially Golden Retrievers and Samoyeds).

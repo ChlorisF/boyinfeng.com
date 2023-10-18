@@ -1,5 +1,5 @@
 ---
-title: (in French) Influence of Personality on Politics: A Review
+title: (in French) Influence of Personality on Politics - A Review
 authors:
 - Boyin Feng
 summary: ''

@@ -1,6 +1,6 @@
 ---
 title: Anti-fan polarisation on Weibo
-summary: The study investigated the ecology of anti-fans on Weibo using text sentiment analysis based on 1303 posts from an "anti-fan leader".
+summary: The study investigated the ecology of anti-fans on Chinese social media *Weibo* using text sentiment analysis based on 1303 posts from an "anti-fan leader".
 date: '2020-11-18T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

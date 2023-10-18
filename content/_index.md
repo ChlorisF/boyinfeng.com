@@ -11,16 +11,6 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: portfolio
-    id: featured
-    content:
-      title: Research Papers
-      filters:
-        folders:
-          - research
-    design:
-      columns: '2'
-      view: citation
-  - block: portfolio
     id: projects
     content:
       title: Projects
@@ -33,6 +23,16 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: true
+  - block: portfolio
+    id: featured
+    content:
+      title: Selected Essays
+      filters:
+        folders:
+          - research
+    design:
+      columns: '2'
+      view: citation
   - block: collection
     id: publication
     content:

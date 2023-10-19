@@ -73,7 +73,7 @@ Boyin Feng is a Master's student of social psychology and political science. Her
 She is especially interested in exploring questions at the nexus of identity, ideology, emotion, and culture. Some of her current research inquiries include:
 
 - How do affective polarization and ideological polarization connect and interact?<br>
-- How do group identities and cultural differences shape the experience, expression, and regulation of emotions?<br>
+- How do group identities (in-group vs out-group) and cultural differences shape the experience, expression, and regulation of emotions?<br>
 - How do cultural values and political ideologies influence social identities and intergroup dynamics like polarization, conflict, and discrimination?<be>
 
 Boyin is passionate about pursuing scholarship across disciplines and borders that may inform solutions to pressing issues of intergroup conflict and global cooperation challenges. Long-term, she also aspires to develop effective methods for investigating sensitive subjects in China such as polarization, structural injustice, sexism, and racism. Outside of research, she enjoys cooking, learning languages, playing the piano, wandering through the parks, and watching dog videos (especially of Golden Retrievers and Samoyeds).

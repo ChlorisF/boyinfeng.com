@@ -31,7 +31,7 @@ education:
   courses:
     - course: MSc in Social Cognition
       institution: University College London
-      year: 2021-2022 (with *Distinction*)
+      year: 2021-2022 (with Distinction)
     - course: LLM in International Politics
       institution: Beijing Foreign Studies University
       year: 2020-2023

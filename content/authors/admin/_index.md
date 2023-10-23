@@ -68,7 +68,7 @@ email: 'boyin.feng.21@ucl.ac.uk'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Boyin studies social psychology and political science. Her interdisciplinary research interests span intergroup relations, cultural/political psychology, political neuroscience, and affective science. She received training in computational neuroscience from Neuromatch Academy 2022 and has written R codes for two projects. She speaks Mandarin Chinese, English, and French fluently, as well as some Latin and ancient Greek.
+Boyin studies social psychology and political science. Her interdisciplinary research interests span intergroup relations, cultural/political psychology, political neuroscience, and affective science. She received training in computational neuroscience from Neuromatch Academy 2022 and has independently written R codes for two projects. She speaks Mandarin Chinese, English, and French fluently, as well as some Latin and ancient Greek.
 
 She is especially interested in exploring questions at the nexus of identity, ideology, emotion, and culture. Some of her current research inquiries include:
 

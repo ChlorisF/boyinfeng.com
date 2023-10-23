@@ -29,13 +29,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: LLM in International Politics
-      institution: Beijing Foreign Studies University
-      year: 2020-2023 (expected)
     - course: MSc in Social Cognition
       institution: University College London
-      year: 2021-2022 (with distinction)
-    - course: BA in French and LLB in International Relations
+      year: 2021-2022 (with *Distinction*)
+    - course: LLM in International Politics
+      institution: Beijing Foreign Studies University
+      year: 2020-2023
+    - course: Double BAs in French and International Relations
       institution: Beijing Foreign Studies University
       year: 2016-2020
 

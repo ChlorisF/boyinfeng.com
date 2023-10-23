@@ -68,17 +68,15 @@ email: 'boyin.feng.21@ucl.ac.uk'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Born and raised in Taiyuan, a small city in northern China, I only began to discover my passion for psychology until my 3rd-year exchange, as my home university did not offer it as a major. My seniors cautioned that it was nearly impossible to pursue an academic career in psychology after such a late start, but I went on to obtain an MSc in Social Cognition from UCL and will publish my first paper this year. I hope to continue on this academic path and help people who, like me, do not have the opportunity to explore their interests until later in life to thrive just as fully.
+Boyin studies social psychology and political science. Her interdisciplinary research interests span intergroup relations, cultural/political psychology, political neuroscience, and affective science. She received training in computational neuroscience from Neuromatch Academy 2022 and has written R codes for two projects. She speaks Mandarin Chinese, English, and French fluently, as well as some Latin and ancient Greek.
 
-My interdisciplinary research interests lie at the intersection of intergroup relations, cultural/political psychology, political neuroscience, and affective science. I am fluent in Mandarin Chinese, English, and French, and have studied Latin and ancient Greek (sed non bene!).
+She is especially interested in exploring questions at the nexus of identity, ideology, emotion, and culture. Some of her current research inquiries include:
 
-I am especially fascinated by questions surrounding identity, ideology, emotion, and culture. Some of my current lines of inquiry include:
+- How do affective polarization and ideological polarization connect and interact?<br>
+- How do group identities (in-group vs out-group) and cultural differences shape the experience, expression, and regulation of emotions?<br>
+- How do cultural values and political ideologies influence social identities and intergroup dynamics like polarization, conflict, and discrimination?<be>
 
-- How do group identities and cultural differences shape the experience, expression, and regulation of emotions?
-- What is the connection and interaction between affective polarization and ideological polarization?
-- How do cultural values and political ideologies influence social identities and intergroup dynamics like polarization, conflict, and discrimination?
+Boyin is passionate about pursuing scholarship across disciplines and borders that may inform solutions to pressing issues of intergroup conflict and global cooperation challenges. Long-term, she also aspires to develop effective methods for investigating sensitive subjects such as polarization, structural injustice, sexism, and racism. 
 
-I am passionate about pursuing cross-disciplinary and cross-cultural scholarship that can inform solutions to pressing intergroup conflicts and global cooperation challenges. Long-term, I hope to develop effective methods for investigating sensitive subjects such as polarization, structural injustice, sexism, and racism.
-
-Outside of research, I enjoy cooking, learning languages, playing the piano, wandering through parks, and watching dog videos (especially of golden retrievers and Samoyeds). 
+Outside of research, she enjoys cooking, learning languages, playing the piano, wandering through the parks, and watching dog videos (especially of Golden Retrievers and Samoyeds).
 {style="text-align: justify-all;"}

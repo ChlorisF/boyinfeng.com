@@ -35,7 +35,7 @@ education:
     - course: LLM in International Politics
       institution: Beijing Foreign Studies University
       year: 2020-2023
-    - course: Double BAs in French and International Relations
+    - course: BA in French and LLB in International Relations
       institution: Beijing Foreign Studies University
       year: 2016-2020
 

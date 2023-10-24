@@ -78,5 +78,5 @@ She is especially interested in exploring questions at the nexus of identity, id
 
 Boyin received training in computational neuroscience from Neuromatch Academy 2022 and has independently written R codes for two projects (also organised sessions in [*Gorilla*](https://support.gorilla.sc/support/can-gorilla) usage and statistical analyses in RStudio). She speaks Mandarin Chinese, English, and French fluently, as well as some Latin and ancient Greek.
 
-Outside of research, she enjoys cooking, learning languages, playing the piano, wandering through the parks, and watching dog videos (especially of Golden Retrievers and Samoyeds).
+Outside of research, she enjoys cooking, learning languages, wandering through the parks, and watching dog videos (especially of Golden Retrievers and Samoyeds).
 {style="text-align: justify-all;"}

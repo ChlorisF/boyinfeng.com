@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://doi.org/10.31234/osf.io/d8bcj'
+url_pdf: https://doi.org/10.31234/osf.io/d8bcj
 url_code: 'https://github.com/ChlorisF/cultural-generalisability-psych-measures-2023'
 
 # Featured image

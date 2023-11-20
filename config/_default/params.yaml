@@ -13,8 +13,7 @@ appearance:
 
 # GoogleAnalytics
 services:
-  googleAnalytics:
-    ID: G-34F7XRWJXW
+googleAnalytics = 'G-34F7XRWJXW'
 
 # SEO
   analytics:

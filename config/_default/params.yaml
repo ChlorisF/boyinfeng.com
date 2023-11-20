@@ -11,9 +11,8 @@ appearance:
   font: Rose
   font_size: M
 
-# GoogleAnalytics
-services:
-  googleAnalytics = 'G-34F7XRWJXW'
+# Google Analytics 4
+googleAnalyticsID = "G-34F7XRWJXW"
 
 # SEO
   analytics:

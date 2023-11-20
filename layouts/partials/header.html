@@ -1,6 +1,7 @@
 <head>
   {{ if .Site.Params.GoogleAnalyticsID }}
   {{ partial "analytics-gtag.html" . }}
+  {{ template "_internal/google_analytics.html" . }}
   {{ end }}
   ...
  </head>

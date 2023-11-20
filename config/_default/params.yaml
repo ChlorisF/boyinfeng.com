@@ -11,6 +11,10 @@ appearance:
   font: Rose
   font_size: M
 
+# GoogleAnalytics
+services:
+  googleAnalytics:
+    ID: G-34F7XRWJXW
 
 # SEO
   analytics:

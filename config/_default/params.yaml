@@ -14,11 +14,11 @@ appearance:
 # GoogleAnalytics
 services:
   googleAnalytics:
-    ID: G-34F7XRWJXW
+    ID: G-RNHWK8B1EE
 
 # SEO
   analytics:
-    google_analytics: 'G-34F7XRWJXW'
+    google_analytics: 'G-RNHWK8B1EE'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''  

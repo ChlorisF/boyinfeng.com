@@ -68,7 +68,7 @@ email: 'boyin.feng.21@ucl.ac.uk'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-* If you come from a non-traditional background or a smaller city like me, and want some advice on navigating the (fairly daunting!) grad school application process, feel free to reach out!
+*** If you come from a non-traditional background or a smaller city like me, and want some advice on navigating the (fairly daunting!) grad school application process, feel free to reach out!
 
 Boyin studies social psychology and political science. Her interdisciplinary research interests span intergroup relations, cultural/political psychology, political neuroscience, and affective science. 
 

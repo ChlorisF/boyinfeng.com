@@ -31,13 +31,10 @@ education:
   courses:
     - course: MSc in Social Cognition
       institution: University College London
-      year: 2021-2022 (with Distinction)
     - course: LLM in International Politics
       institution: Beijing Foreign Studies University
-      year: 2020-2023
     - course: BA in French and LLB in International Relations
       institution: Beijing Foreign Studies University
-      year: 2016-2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -78,7 +75,7 @@ She is especially interested in exploring questions at the nexus of identity, id
 - How do group identities (in-group vs out-group) and cultural differences shape the experience, expression, and regulation of emotions?<br>
 - How do cultural values and political ideologies influence social identities and intergroup dynamics like polarization, conflict, and discrimination?<be>
 
-Boyin received training in computational neuroscience from Neuromatch Academy 2022 and has independently written R codes for three projects (also organised sessions in [*Gorilla*](https://support.gorilla.sc/support/can-gorilla) usage and statistical analyses in RStudio). She speaks Mandarin Chinese, English, and French fluently, as well as some Latin and ancient Greek.
+Boyin received training in computational neuroscience from Neuromatch Academy 2022, has independently written R codes for various projects, and delivered information sessions in [*Gorilla*](https://support.gorilla.sc/support/can-gorilla) usage and statistical analyses in RStudio). She speaks Mandarin Chinese, English, and French fluently, as well as some Latin and ancient Greek.
 
 Outside of research, she enjoys cooking, learning languages, wandering through the parks, and watching dog videos (especially of Golden Retrievers and Samoyeds).
 {style="text-align: justify-all;"}
